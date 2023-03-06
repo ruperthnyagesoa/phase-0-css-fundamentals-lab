@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+.center {
+  border: 5px solid;
+  height: 150px;
+  line-height: 150px;
+  text-align: center;
+}
+
+p {
+  line-height: normal;
+  display: inline-block;
+  vertical-align: middle;
+}
+.image
